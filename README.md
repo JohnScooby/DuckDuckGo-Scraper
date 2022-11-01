@@ -1,4 +1,5 @@
 # DuckDuckGo-Scraper
+A Simple Python Script To Scrape DuckDuckGo Search Results.
 -----
 ## Prerequisites
 1. [Python](https://www.python.org/downloads/)
